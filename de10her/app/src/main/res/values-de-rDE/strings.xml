@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Die 10 W\'s</string>
+    <string name="title_hint">Titel einsetzen</string>
+    <string name="insert_text_hint">Text einsetzen</string>
+    <string name="annuler">Abbrechen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="page">Seite</string>
+    <string name="deleteNotice">Sicher, dass du die Grafik löschen willst?</string>
+    <string name="ok">OK</string>
+    <string name="save">Speichern</string>
+    <string name="delete">Löschen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="duplicate">Duplizieren</string>
+    <string name="copy">"Kopie "</string>
+    <string name="share">Teilen</string>
+    <string name="open_source_notice">Die Android-Version der 10 W\'s-App ist von AGPL lizenziert und der Quellcode kann hier abgerufen werden: https://github.com/overlevelsesguiden/The10H-Android</string>
+    <string name="all10hs">Alle 10 W’s</string>
+    <string name="onlyFilled">Nur die ausgefüllten</string>
+    <string name="info">Kinder, Jugendliche und Erwachsene mit Autismusspektrumsstörungen, ADHS und anderen ähnlichen tiefgreifenden Entwicklungsstörungen haben häufig Probleme mit der Vorstellungskraft und den exekutiven Funktionen (Planung, Überblick, Priorisierung und Zeiteinteilung), und genau deshalb kann „Die 10 W’s“-App für diese Personengruppe eine besondere Unterstützung sein. \n\nDie 10 W’s können uns auf eine bevorstehende Aufgabe oder Aktivität vorbereiten und Anforderungen sowie Erwartungen verdeutlichen. Sie können den Sinn der Aufgabe oder Aktivität verdeutlichen und somit die Motivation steigern und den Stress reduzieren.\n\nFür diejenigen unter uns, die sich mit einer festen Planung, Strukturierung und Überblick wohlfühlen, ist die Handhabung einer Aufgabe oder einer Aktivität davon abhängig, dass wir notwendige und ausreichend Informationen zu den richtigen Zeitpunkten erhalten. \nWir benötigen Hilfe, um uns einen Überblick zu verschaffen und somit die Ungewissheit minimieren zu können.   \n\nDie App kann von Kindern, Jugendlichen und Erwachsenen genutzt werden. Sowohl in der Schule und auf der Arbeit als auch in der Freizeit und zu Hause. \n\nDas Schema kann von der Person, die das Schema anwenden möchte, ausgefüllt werden oder aber auch von der jeweiligen Begleitperson eines Kindes oder eines*einer Erwachsenen. \n\nDie 10 W’s beinhalten folgende Fragen:\n\nWas ist zu tun? (Inhalt)\nWarum tue ich es? (Ziel)\nWie tue ich es? (Methode)\nWo tue ich es? (Standort)\nWann tue ich es? (Zeitpunkt)\nWie lange tue ich es? (Zeitraum)\nWer ist außer mir dabei? (Personen)\nWie viel soll ich tun? (Menge)\nWen kann ich um Hilfe fragen? (Personen)\nWas tue ich danach? (Inhalt)\n\nDie 10 W’s können eine Voraussetzung sein, um unser Potenzial optimal ausschöpfen zu können. \n\nDie Verwendung der 10 W’s  ist keineswegs eine neue Erfindung. Ich habe sie bis Cicero zurückverfolgen können, der in „De Inventione“ („Über die Auffindung des Stoffes“) über die 6 W’s sprach: Wer, was, wo, wie, warum und wann. \n\nRudyard Kipling, Autor des Dschungelbuchs, schrieb in „Just So Stories“ aus dem Jahr 1902 folgendes: „Ich hatte sechs ergebene Diener. Sie lehrten mich alles, was ich wissen mußte: Ihre Namen waren: wo und was und wann und warum und wie und wer.“\n\nSeither wurden sie mit mehreren W’s erweitert. Eines der W’s, das ich hinzugefügt habe, ist „Wen kann ich um Hilfe fragen?“. Dies war eine große Hilfe für mich, wenn ich mit einer Aufgabe oder Aktivität nicht weiterkam. \n\nWenn Sie die App öffnen, gelangen Sie sofort zur Vorlage mit den 10 W’s. \nDort wird der Text der einzelnen W’s ausgefüllt.\nFalls Sie nicht alle Felder der 10 W’s ausfüllen möchten, werden die nicht ausgefüllten Felder im endgültigen Schema leer sein. \n\nNach dem Ausfüllen kann das Schema ausgedruckt und/oder verschickt werden (per E-Mail und andere Apps). Das Schema wird in eine PDF-Datei umgewandelt, sodass es dem Empfänger nicht möglich ist, den Text zu ändern. Alle erstellten Schemata werden automatisch mit Überschrift und Datum in der App gespeichert. \n\nAb Android 11 können Sie direkt via der Schaltfläche „Teilen“ in der App drucken. Für Android 10 oder früheren Versionen wird eine separate Drucker-App benötigt (z.B. HP, Samsung, etc.).\n\nEs ist möglich, gespeicherte Schemata zu bearbeiten. Drücken Sie dafür auf das gewünschte Schema und danach auf die Schaltfläche „Bearbeiten“. Wenn die Formulare erstellt werden, erscheinen sie auf der Liste (die erscheint, sobald Sie die App öffnen). Es ist natürlich auch möglich bereits erstellte Schemata zu löschen. \n\nDie App ist kompatibel mit Handys der Versionen Android 8.0 und aufwärts.\n\nIch hoffe, dass Sie viel Spaß und Erfolg mit der App haben werden! Und wenn Sie Probleme, weitere Fragen oder gute Ideen haben, dann schreiben Sie mir eine E-Mail an: anne@overlevelsesguiden.dk</string>
+    <string name="h1">Was ist zu tun?</string>
+    <string name="content">(inhalt)</string>
+    <string name="h2">Warum tue ich dies?</string>
+    <string name="meaning">(ziel)</string>
+    <string name="h3">Wie tue ich es?</string>
+    <string name="method">(methode)</string>
+    <string name="h4">Wo tue ich es?</string>
+    <string name="place">(standort)</string>
+    <string name="h5">Wann tue ich es?</string>
+    <string name="time">(zeithorizont)</string>
+    <string name="h6">Wie lange tue ich es?</string>
+    <string name="time_horizont">(zeitraum)</string>
+    <string name="h7">Wer ist außer mir dabei?</string>
+    <string name="people">(personen)</string>
+    <string name="h8">Wie viel sollte ich tun?</string>
+    <string name="amount">(menge)</string>
+    <string name="h9">Wen kann ich um Hilfe fragen?</string>
+    <string name="person">(personen)</string>
+    <string name="h10">Was tue ich danach?</string>
+</resources>

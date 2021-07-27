@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">De 10 H\'er</string>
+    <string name="annuler">Anuller</string>
+    <string name="title_hint">Indsæt titel</string>
+    <string name="insert_text_hint">Indsæt tekst</string>
+    <string name="ok">OK</string>
+    <string name="h1">Hvad skal jeg lave?</string>
+    <string name="content">(indhold)</string>
+    <string name="h2">Hvorfor skal jeg lave det?</string>
+    <string name="meaning">(mening)</string>
+    <string name="h3">Hvordan skal jeg lave det?</string>
+    <string name="method">(metode)</string>
+    <string name="h4">Hvor skal jeg lave det?</string>
+    <string name="place">(placering)</string>
+    <string name="h5">Hvornår skal jeg lave det?</string>
+    <string name="time">(tidspunkt)</string>
+    <string name="h6">Hvor længe skal jeg lave det?</string>
+    <string name="time_horizont">(tidshorisont)</string>
+    <string name="h7">Hvem skal jeg lave det med?</string>
+    <string name="people">(personer)</string>
+    <string name="h8">Hvor meget skal jeg lave?</string>
+    <string name="amount">(mængde)</string>
+    <string name="h9">Hvem kan jeg få hjælp af?</string>
+    <string name="person">(person)</string>
+    <string name="h10">Hvad skal jeg lave bagefter?</string>
+    <string name="info">Børn, unge og voksne med autisme, ADHD og andre lignende profiler har ofte problemer med forestillingsevnen og de eksekutive
+                        funktioner (planlægning, overblik, prioritering og tidsstyring), og derfor kan \“De 10 H\’er\” appen være en særlig støtte til denne persongruppe.
+
+                        \n\nDe 10 H\’er kan forberede os på en kommende opgave eller aktivitet og tydeliggøre krav og forventninger. De kan tilføre mening,
+                        og dermed øge motivationen og reducere stressen.
+
+                        \n\nFor os, der trives med forudsigelighed, struktur og overblik, er håndteringen af en opgave eller aktivitet afhængig af,
+                        at vi får den nødvendige og tilstrækkelige information på det rigtige tidspunkt.
+                        Vi har brug for hjælp, så vi kan danne overblik og derved minimere uvisheden.
+
+                        \n\nAppen kan anvendes til børn, unge og voksne. Både i skolen, på jobbet, derhjemme og i fritiden.
+                        Skemaet kan udfyldes af personen, der skal bruge det eller af de støttepersoner, der er omkring barnet eller den voksne.
+
+                        \n\nDe 10 H\’er udgør følgende spørgsmål:
+
+                        \n\nHvad skal jeg lave? (Indhold)
+                        \nHvorfor skal jeg lave det? (Mening)
+                        \nHvordan skal jeg lave det? (Metode)
+                        \nHvor skal jeg lave det? (Placering)
+                        \nHvornår  skal jeg lave det? (Tidspunkt)
+                        \nHvor længe skal jeg lave det? (Tidsperspektiv)
+                        \nHvem skal jeg lave det med? (Personer)
+                        \nHvor meget skal jeg lave? (Mængde)
+                        \nHvem kan jeg få hjælp af? (Person)
+                        \nHvad skal jeg bagefter? (Indhold)
+
+                        \n\nDe 10 H\’er kan være forudsætningen for, at vi kan udfolde vores potentiale optimalt.
+
+                        \n\nAt benytte H\'erne er på ingen måde en ny opfindelse. Jeg har sporet dem helt tilbage til Cicero, der talte om 6 H\’er i "De Inventione":
+                        Hvem, hvad, hvor, hvordan, hvorfor, hvornår.
+
+                        \n\nRydyard Kipling, forfatter af Junglebogen, skrev følgende i \“Just So Stories\” fra 1902:
+                        \“Jeg har seks trofaste tjenere. De har lært mig alt, hvad jeg ved. Deres navne er: Hvad, hvorfor, hvor, hvordan, hvornår og hvem.\”
+
+                        \n\nDe er sidenhen blevet udbygget med flere H\’er. Et af de H\’er, jeg har tilføjet, er \“Hvem kan jeg få hjælp af?\”.
+                        Det har været en stor hjælp for mig, når jeg gik i stå og ikke kunne komme videre i en aktivitet eller opgave.
+
+                        \n\nNår du åbner appen, kommer du direkte ind i skabelonen med de 10 H\’er.
+
+                        \n\nHerfra udfyldes teksten til de enkelte H\’er.
+                        Hvis du vælger ikke at udfylde alle 10 H\’er, vil de uudfyldte være blanke i det færdige skema.
+
+                        \n\nNår skemaet er færdigudfyldt, kan det både printes og sendes (via mail eller andre apps).
+                        Skemaet omdannes til en pdf-fil, så det vil ikke være muligt for modtageren at ændre i teksten.
+                        Alle oprettede skemaer gemmes automatisk i appen med titel og dato.
+
+                        \n\nFra Android 11 og frem kan der printes direkte fra appen via del-knappen.
+                        Til Android 10 eller tidligere kræves en separat printerapp eller lignende (f.eks HP, Samsung m.v.)
+
+                        \n\nDet er muligt at redigere i gemte skemaer. Tryk på det ønskede skema og herefter på redigerknappen.
+                        Efterhånden som skemaerne oprettes, vil de fremgå af listen (som vises, når du åbner appen).
+                        Det er selvfølgelig også muligt at slette skemaer på listen.
+
+                        \n\nAppen virker på mobiltelefoner med Android 8.0 og nyere.
+
+                        \n\nJeg håber, at I vil få fornøjelse af app\'en, og hvis I oplever problemer, har andre spørgsmål eller gode ideer,
+                        så send endelig en mail til mig på: anne@overlevelsesguiden.dk
+    </string>
+    <string name="open_source_notice">Android versionen af De 10 H\'er appen er under licens af AGPL og kildekoden kan tilgås her: https://github.com/overlevelsesguiden/The10H-Android</string>
+
+    <string name="delete">Slet</string>
+    <string name="save">Gem</string>
+    <string name="edit">Rediger</string>
+    <string name="duplicate">Dupliker</string>
+    <string name="copy">Kopi</string>
+    <string name="share">Del</string>
+    <string name="all10hs">Alle 10 h\'er</string>
+    <string name="onlyFilled">Kun de udfyldte</string>
+    <string name="cancel">Anuller</string>
+    <string name="page">Side</string>
+    <string name="deleteNotice">Er du sikker på at du vil slette dette skema?</string>
+</resources>

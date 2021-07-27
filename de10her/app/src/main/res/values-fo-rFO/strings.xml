@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tey 10 H’ini</string>
+    <string name="copy">Kopi</string>
+    <string name="open_source_notice">Android útgávan av teimum 10 H’unum er undir heimild av AGPL, og keldukotan fæst her: https://github.com/overlevelsesguiden/The10H-Android</string>
+    <string name="cancel">Angra</string>
+    <string name="page">Síða</string>
+    <string name="deleteNotice">Vilt tú sletta oyðublaðið?</string>
+    <string name="onlyFilled">Sólo preguntas contestadas</string>
+    <string name="all10hs">Øll tey 10 H’ini</string>
+    <string name="share">Deil</string>
+    <string name="duplicate">Tvífalda</string>
+    <string name="edit">Broyt</string>
+    <string name="save">Goym</string>
+    <string name="delete">Strika</string>
+    <string name="info">ørn, ung og vaksin við autismu, ADHD og øðrum líknandi profilum hava ofta trupulleikar við ímyndingarevnunum og við teimum eksekutivu funksjónunum, og tí kann appin ”Tey 10 H’ini” vera ein serligur stuðul til henda bólkin. Eksekutivar funksjónir eru evnini at leggja ætlanir, hava yvirlit, raðfesting og tíðarstýring.\nTey 10 H’ini kunnu fyrireika okkum uppá eina komandi uppgávu ella aktivitet og gera krøv og væntanir meira týðilig. Tey kunnu geva meining og tí økja motivatión og minka um strongd, \nFyri okkum, sum trívast við skipaðum viðurskiftum, yvirliti og við at vita hvat fer at henda, er lættari at megna eina uppgávu ella aktivitet, um vit fáa neyðuga kunning frammanundan.\nVit hava tørv á hjálp, so vit kunnu gera okkum yvirlit og minka um óvissuna.\nAppin kann brúkast til børn, ung og vaksin. Bæði í skúlanum, til arbeiðis, harheima og í frítíðini.\nOyðublaðið kann fyllast út av persóninum, sum skal brúka tað, ella av stuðulspersóninum, sum er um barnið ella tann vaksna.\nTey 10 H’ini eru\n\nHvat skal eg gera? (Innihald)\nHví skal eg gera tað? (Meining)\nHvussu skal eg gera tað? (Mannagongd)\nHvar skal eg gera tað? (Stað)\nHvat tíðspunkt skal eg gera tað? (Nær)\nHvussu leingi skal eg gera tað? (Tíðarbil)\nHvørjum skal eg gera tað við? (Persónar)\nHvussu nógv skal eg gera? (Mongd)\nHvørjum kann eg fáa hjálp frá? (Persónur)\nHvat skal eg gera aftaná? (Innihald)\n\nTey 10 H’ini kunnu vera fortreytin fyri, at vit kunnu menna okkum fult.\n\nAt brúka H’ini eru ikki ein nýggj uppfinning. Eg havi sporað tey heilt aftur til Cicero, ið tosaði um tey 6 H’ini í “De Inventione”: Hvør, hvat, hvar, hvussu, hví og hvat tíðspunkt.\n\nRudyard Kipling, rithøvundurin av Junglubókini, skrivaði herra í “Just So Stories” frá 1902: “Eg havi seks trúgvar tænarar. Teir hava lært meg alt, eg veit. Nøvn teirra eru: Hvat, hví, hvar, hvussu, hvat tíðspunkt og hvør.”\n\nSíðani eru fleiri H løgd afturat. Eitt av teimum, eg havi lagt afturat, er “Hvørjum kann eg fáa hjálp frá?”. Tað hevur verið ein stór hjálp fyri meg, tá eg steðgaði upp og ikki kundi koma víðari í einum aktiviteti ella uppgávu.\n\nTá tú letur appina upp, kemur tú beinleiðis inn í oyðublaðið við teimum 10 H’unum.\n\nSo fyllir tú tekstin út til tey eintøku H’ini.\n\nUm tú velur ikki at fylla øll H’ini út, vera tey verandi tóm í tí lidna oyðublaðnum.\n\nTá oyðublaðið er liðugt fylt út, kann tað bæði prentast og sendast (við telduposti og aðrar appir). Oyðublaðið verður gjørt til eina pdf-fílu, so móttakarin ikki kann broyta í tekstinum. Øll oyðubløð verða sjálvvirkandi goymd í appini við heiti og dato.\n\nFrá og við Android 11 ber til at printa beinleiðis við appini við deil-knøttinum. Til Android 10 ella fyrr er neyðugt at brúka eina printaraapp ella líknandi (t.d. HP, Samsung osfr.)\n\nTað ber til at broyta í goymdum oyðubløðum. Trýst á tað oyðublaðið, tú ynskir, og síðani á Broyt-knøttin. So við og við fara oyðubløðini, tú stovnar, at liggja í listanum (sum verður vístur, tá tú letur app’ina upp). Tað ber sjálvandi eisini til at strika oyðubløð á listanum. \n\nAppin riggar á fartelefonum við Android 8.0 og nýggjari.\n\n\nEg hopi, tit fara at fáa gleði av appini, og um tit uppliva trupulleikar, hava aðrar spurningar ella góð hugskot, so sendið gjarna ein teldupost til mín á: anne@overlevelsesguiden.dk</string>
+    <string name="annuler">Angra</string>
+    <string name="title_hint">Set heiti inn</string>
+    <string name="insert_text_hint">Set tekst inn</string>
+    <string name="ok">OK</string>
+    <string name="h1">Hvat skal eg gera?</string>
+    <string name="content">(innihald)</string>
+    <string name="h2">Hví skal eg gera tað?</string>
+    <string name="meaning">(týdning)</string>
+    <string name="h3">Hvussu skal eg gera tað?</string>
+    <string name="method">(mannagongd)</string>
+    <string name="h4">Hvar skal eg gera tað?</string>
+    <string name="place">(stað)</string>
+    <string name="h5">Hvat tíðspunkt (nær) skal eg gera tað?</string>
+    <string name="time">Tíðspunkt</string>
+    <string name="h6">Hvussu leingi skal eg gera tað?</string>
+    <string name="time_horizont">Tíðarbil</string>
+    <string name="h7">Hvørjum skal eg gera tað við?</string>
+    <string name="people">(persónar)</string>
+    <string name="h8">Hvussu nógv skal eg gera?</string>
+    <string name="amount">Mongd (hvussu nógv)</string>
+    <string name="h9">Hvørjum kann eg fáa hjálp frá?</string>
+    <string name="person">(persónur)</string>
+    <string name="h10">Hvat skal eg gera aftaná?</string>
+</resources>

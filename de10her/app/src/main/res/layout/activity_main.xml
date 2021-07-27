@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/main_background">
+
+
+    <RelativeLayout
+        android:elevation="18dp"
+        android:background="@color/secondary_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/text_primary_color"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:text="@string/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <ImageButton
+            android:onClick="goToInfoActivity"
+            android:padding="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/info_button_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageButton
+            android:onClick="goToMakeDocumentActivity"
+            android:padding="16dp"
+            android:background="?android:attr/selectableItemBackground"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/write_button_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:paddingTop="24dp"
+            android:paddingBottom="88dp"
+            android:orientation="vertical"
+            android:id="@+id/document_button_container"
+            android:layout_marginTop="64dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

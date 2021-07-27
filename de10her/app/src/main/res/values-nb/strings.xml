@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">De 10 H\'er</string>
+    <string name="annuler">Avbryt</string>
+    <string name="ok">OK</string>
+    <string name="page">Side</string>
+    <string name="h1">Hva skal jeg gjøre?</string>
+    <string name="content">(innhold)</string>
+    <string name="h2">Hvorfor skal jeg gjøre det?</string>
+    <string name="cancel">Avbryt</string>
+    <string name="meaning">(mening)</string>
+    <string name="h3">Hvordan skal jeg gjøre det?</string>
+    <string name="method">(metode)</string>
+    <string name="delete">Slett</string>
+    <string name="deleteNotice">Er du sikker på at du vil slette dette skjemaet?</string>
+    <string name="onlyFilled">Bare de utfyllte feltene</string>
+    <string name="all10hs">Alle de 10 H’ene</string>
+    <string name="share">Del</string>
+    <string name="copy">Kopi</string>
+    <string name="duplicate">Dupliser</string>
+    <string name="edit">Endre</string>
+    <string name="save">Lagre</string>
+    <string name="open_source_notice">Android versjonen av appen De 10 H\'er er utgitt under AGPL lisens, og kildekoden finner du tilgang til her: https://github.com/overlevelsesguiden/The10H-Android</string>
+    <string name="title_hint">Skriv inn tittel</string>
+    <string name="insert_text_hint">Skriv inn tekst</string>
+    <string name="info">Barn, unge og voksne med autisme, ADHD og andre lignende profiler har ofte utfordringer med forestillingsevne og eksekutive funksjoner (planlegging, oversikt, prioritering og tidsstyring). Derfor kan appen “De 10 H’er“ være en god støtte for denne gruppen personer.\n \nDe 10 H’er kan forberede oss på kommende oppgaver eller aktiviteter, og tydeliggjøre krav og forventninger. De kan tilføre mening og dermed øke motivasjon og redusere stress.  \n \nVi som trives med forutsigbarhet, struktur og oversikt, behøver god og tilstrekkelig informasjon, til riktig tid, for å gjennomføre en oppgave eller aktivitet. Vi har bruk for støtte, for å skaffe oss oversikt og redusere uvisshet. \n \nAppen kan brukes av barn, unge og voksne, både i skolen, på jobben, hjemme og på fritiden. \n\nSkjemaet kan utfylles enten av personen som skal bruke det selv, eller av støttepersoner som er sammen med barnet eller den voksne. \n \nDe 10 H’er er disse spørsmålene: \n \nHva skal jeg gjøre? (Innhold)\nHvorfor skal jeg gjøre det? (Mening)\nHvordan skal jeg gjøre det? (Metode)\nHvor skal jeg gjøre det? (Sted)\nHvilket tidspunkt skal jeg gjøre det på? (Når)\nHvor lenge skal jeg gjøre det? (Tidsrom)\nHvem skal jeg gjøre det med? (Personer)\nHvor mye skal jeg gjøre? (Mengde)\nHvem kan jeg få hjelp av? (Person)\nHva skal jeg gjøre etterpå? (Innhold)\n \nDe 10 H’er kan være den hjelpen vi trenger til å utfolde vårt potensial best mulig. \n \nÅ bruke disse H’ene er på ingen måte en ny oppfinnelse. Jeg har sporet dem helt tilbake til filosofen Cicero, som snakket om de seks H’er i håndboken \"De inventione\": Hvem, hva, hvor, hvordan, hvorfor og når.  \n \nRudyard Kipling, forfatteren av Jungelboken, skrev følgende i “Just So Stories” fra 1902: “Jeg har seks trofaste tjenere. De har lært meg alt jeg vet. Deres navn er: Hva, hvorfor, hvor, hvordan, når og hvem.”\n \nDet har etterhvert kommet flere H’er til listen. En av de H’ene jeg har lagt til er “Hvem kan jeg få hjelp av?”. Det har vært til stor hjelp for mig, når jeg går i stå og ikke klarer å komme videre med en aktivitet eller oppgave.\n \nNår du åpner appen, kommer du direkte inn i malen med de 10 H’ene.\n \nDu kan fylle ut teksten til hver H rett inn i skjemaet. \n \nHvis du velger å ikke fylle ut alle de 10 H’ene, vil de bare være blanke i det ferdige skjemaet.\n \nNår skjemaet er ferdig utfylt, kan det både printes eller sendes (via mail eller andre apper). Skjemaet blir gjort om til en PDF-fil, så mottakeren kan ikke endre teksten. Alle ferdige skjemaer lagres automatisk i appen med tittel og dato. \n\nMed Android 11 og nyere versjoner kan det printes direkte fra appen via del-knappen. Med Android 10 eller tidligere versjoner kreves en separat printerapp eller lignende (f.eks HP, Samsung m.v.)\n\n \nDet er mulig å gjøre endringer i lagrede skjemaer i appen. Trykk på det skjemaet du vil gjøre endringer i og deretter på rediger-knappen. Lagrede skjemaer vises i en liste når du åpner appen. Du kan slette skjemaer fra listen. \n\nAppen virker på mobiltelefoner med Android 8.0 og nyere\n\n \nJeg håper du synes at appen er nyttig. Hvis du opplever problemer, har spørsmål eller andre gode ideer, send meg gjerne en e-post: anne@overlevelsesguiden.dk</string>
+    <string name="h4">Hvor skal jeg gjøre det?</string>
+    <string name="place">(sted)</string>
+    <string name="h5">Hvilket tidspunkt skal jeg gjøre det på?</string>
+    <string name="time">(når)</string>
+    <string name="h6">Hvor lenge skal jeg gjøre det?</string>
+    <string name="time_horizont">(tidsrom)</string>
+    <string name="h7">Hvem skal jeg gjøre det med?</string>
+    <string name="people">(personer)</string>
+    <string name="h8">Hvor mye skal jeg gjøre?</string>
+    <string name="amount">(mengde)</string>
+    <string name="h9">Hvem kan jeg få hjelp av?</string>
+    <string name="person">(person)</string>
+    <string name="h10">Hva skal jeg gjøre etterpå?</string>
+</resources>
