@@ -61,6 +61,7 @@
                 android:src="@drawable/privacy_tip_icon" />
 
             <TextView
+                android:textColorLink="#F57C00"
                 android:layout_marginTop="8dp"
                 android:textSize="18sp"
                 android:text="https://overlevelsesguiden.dk/the-10-h-privacy-policy-en.html?fbclid=IwAR2dhlI9-DgFhP4s6RZLHlX-cdZg_xziS3LDnz6-IIRHqR0NATaJOzENEOY"
