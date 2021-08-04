@@ -6,50 +6,65 @@
     android:orientation="vertical">
 
 
-
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="16dp"
             android:paddingTop="64dp"
             android:paddingRight="16dp"
-            android:paddingLeft="16dp"
-            android:paddingBottom="16dp"
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:paddingBottom="16dp">
 
             <ImageView
-                android:layout_marginTop="20dp"
-                android:src="@drawable/badge"
                 android:layout_width="match_parent"
-                android:layout_height="180dp"/>
+                android:layout_height="180dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/badge" />
+
             <TextView
-                android:textColor="@color/text_primary_color"
-                android:textSize="30sp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="8dp"
                 android:gravity="center"
                 android:text="@string/app_name"
-                android:layout_width="match_parent"
-                android:layout_height="50dp"/>
+                android:textColor="@color/text_primary_color"
+                android:textSize="30sp" />
 
             <TextView
-                android:textColorLink="#F57C00"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:autoLink="email"
-                android:textColor="@color/text_primary_color"
-                android:textSize="18sp"
                 android:text="@string/info"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"/>
+                android:textColor="@color/text_primary_color"
+                android:textColorLink="#F57C00"
+                android:textSize="18sp" />
 
             <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
                 android:layout_marginTop="16dp"
-                android:textColorLink="#F57C00"
                 android:autoLink="web"
-                android:textColor="@color/text_primary_color"
-                android:textSize="18sp"
                 android:text="@string/open_source_notice"
+                android:textColor="@color/text_primary_color"
+                android:textColorLink="#F57C00"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="42dp"
+                android:src="@drawable/privacy_tip_icon" />
+
+            <TextView
+                android:layout_marginTop="8dp"
+                android:textSize="18sp"
+                android:text="https://overlevelsesguiden.dk/the-10-h-privacy-policy-en.html?fbclid=IwAR2dhlI9-DgFhP4s6RZLHlX-cdZg_xziS3LDnz6-IIRHqR0NATaJOzENEOY"
+                android:autoLink="web"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"/>
 
