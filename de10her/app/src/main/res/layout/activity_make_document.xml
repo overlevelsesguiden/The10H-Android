@@ -50,6 +50,7 @@
             android:layout_height="match_parent">
 
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/document_title_background"
                 android:layout_marginTop="16dp"
                 android:id="@+id/document_id"
@@ -72,6 +73,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h1_text"
                 android:layout_marginTop="16dp"
@@ -93,6 +95,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h2_text"
                 android:layout_marginTop="16dp"
@@ -114,6 +117,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h3_text"
                 android:layout_marginTop="16dp"
@@ -135,6 +139,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h4_text"
                 android:layout_marginTop="16dp"
@@ -156,6 +161,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h5_text"
                 android:layout_marginTop="16dp"
@@ -177,6 +183,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h6_text"
                 android:layout_marginTop="16dp"
@@ -198,6 +205,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h7_text"
                 android:layout_marginTop="16dp"
@@ -219,6 +227,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h8_text"
                 android:layout_marginTop="16dp"
@@ -240,6 +249,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h9_text"
                 android:layout_marginTop="16dp"
@@ -261,6 +271,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
             <EditText
+                android:inputType="textCapSentences|textMultiLine"
                 android:background="@drawable/inserted_text_background"
                 android:id="@+id/h10_text"
                 android:layout_marginTop="16dp"

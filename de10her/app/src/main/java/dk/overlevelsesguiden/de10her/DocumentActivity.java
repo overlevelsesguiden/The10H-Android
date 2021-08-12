@@ -1022,6 +1022,7 @@ public class DocumentActivity extends AppCompatActivity implements PopupMenu.OnM
                     editor.apply();
 
                     Intent intent = new Intent(DocumentActivity.this, MainActivity.class);
+                    intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(intent);
                 }
             }).setNegativeButton(getString(R.string.cancel), null);

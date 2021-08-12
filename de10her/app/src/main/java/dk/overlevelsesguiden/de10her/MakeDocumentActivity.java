@@ -104,11 +104,8 @@ public class MakeDocumentActivity extends AppCompatActivity {
                 Gson gson = new Gson();
                 Intent intent = new Intent(MakeDocumentActivity.this, MainActivity.class);
                 intent.putExtra("document", gson.toJson(doc));
+                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(intent);
-
-
-
-
 
             }
         });

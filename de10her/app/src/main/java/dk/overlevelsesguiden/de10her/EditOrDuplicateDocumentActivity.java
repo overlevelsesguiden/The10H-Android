@@ -181,6 +181,7 @@ public class EditOrDuplicateDocumentActivity extends AppCompatActivity {
                     editor.apply();
 
                     Intent editDocumentIntent = new Intent(EditOrDuplicateDocumentActivity.this, MainActivity.class);
+                    editDocumentIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(editDocumentIntent);
                 }else {
                     editedDocument.setTitle(titleToEdit.getText().toString());
@@ -219,6 +220,7 @@ public class EditOrDuplicateDocumentActivity extends AppCompatActivity {
                     editor.apply();
 
                     Intent editDocumentIntent = new Intent(EditOrDuplicateDocumentActivity.this, MainActivity.class);
+                    editDocumentIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     startActivity(editDocumentIntent);
                 }
             }
